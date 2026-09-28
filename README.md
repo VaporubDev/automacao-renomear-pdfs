@@ -46,12 +46,14 @@ Foi criado um script em **Python** que varre recursivamente toda a estrutura de 
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/VaporubDev/automacao-renomear-pdfs.git](https://github.com/VaporubDev/automacao-renomear-pdfs.git)
-   cd seu-repositorio
+   git clone https://github.com/VaporubDev/automacao-renomear-pdfs.git
+   cd automacao-renomear-pdfs
+   ```
 
 2. **Instale a biblioteca necessária:**
-  ```bash
+   ```bash
    pip install pypdf
+   ```
 
-3. **Execute o script **
-(Altere a variável PASTA_RAIZ no arquivo renomear.py para o caminho desejado e execute)
+3. **Execute o script:**
+   (Altere a variável PASTA_RAIZ no arquivo renomear.py para o caminho desejado e execute)
